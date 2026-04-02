@@ -1,0 +1,19 @@
+/* style.css */
+
+/* Define a cor de fundo da página */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+/* Estiliza títulos */
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+/* Estiliza parágrafos */
+p {
+    color: #555;
+    font-size: 16px;
+}
